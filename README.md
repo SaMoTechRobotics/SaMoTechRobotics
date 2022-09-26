@@ -19,7 +19,7 @@ SaMoTech is an community based FTC robotics team located in Santa Monica, Califo
 
 ## The Competition
 
-Our team participates in the FIRST competion, FTC. It is a global robotics challenge that students of all ages take part in. Last year, over 679,000 people in over 110 counties participate. Thank you to FIRST for giving us such an opportunity.
+Our team participates in the FIRST competion, FTC. FIRST Tech Challenge is a global robotics competition that students of all ages can take part in. Thank you to FIRST for giving us such an opportunity.
 
 ## Sponsors
 
