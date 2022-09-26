@@ -5,5 +5,5 @@
 
 ###
 <p align="center">
-Contact us at `SaMoTechRobotics@gmail.com`
+Contact us at SaMoTechRobotics@gmail.com
 </p>
