@@ -5,5 +5,5 @@
 
 ###
 <p align="center">
-Email for Bussiness Inquires: SaMoTechRobotics@gmail.com
+Contact us at `SaMoTechRobotics@gmail.com`
 </p>
