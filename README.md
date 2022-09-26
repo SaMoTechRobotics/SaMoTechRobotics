@@ -10,9 +10,6 @@
   </a>
 </p>
 <p align="center">
-  SaMoTech Robotics
-</p>
-<p align="center">
   Team #21936
 </p>
 
