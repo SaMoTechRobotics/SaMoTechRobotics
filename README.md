@@ -8,10 +8,13 @@
   <a href="https://github.com/SaMoTechRobotics" target="_blank" rel="noopener noreferrer">
     <img width="100" src="https://avatars.githubusercontent.com/u/114426590?v=4" alt="Vue logo">
   </a>
-  # SaMoTech Robotics
+</p>
+<p align="center">
+  SaMoTech Robotics
+</p>
+<p align="center">
   Team #21936
 </p>
-
 
 ## About
 
