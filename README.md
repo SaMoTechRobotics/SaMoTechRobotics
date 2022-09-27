@@ -15,7 +15,7 @@
 
 ## About
 
-SaMoTech is an community based FTC robotics team located in Santa Monica, California. We are a diverse team of Santa Monica High School students who all deticated and hard working.
+SaMoTech is a community based FTC robotics team located in Santa Monica, California. We are a diverse team of Santa Monica High School students, all deticated and hard working.
 
 ## The Competition
 
