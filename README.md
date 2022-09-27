@@ -23,7 +23,7 @@ Our team participates in the FIRST competion, FTC. FIRST Tech Challenge is a glo
 
 ## Sponsors
 
-As a community based team representing Santa Monica, we need our sponsors support. Thank you to these sponsors that made our team possible.
+As a community based team representing Santa Monica, we need our sponsors support. Thank you to these sponsors that made our team possible. To sponser us, go to our [GoFundMe](https://www.gofundme.com/f/community-freshmen-robotics-team?utm_campaign=p_cf+share-flow-1&utm_medium=copy_link&utm_source=customer).
 
   <p align="center">
     <a target="_blank" href="https://www.firstinspires.org/">
