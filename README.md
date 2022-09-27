@@ -39,7 +39,7 @@ As a community based team representing Santa Monica, we need our sponsors suppor
 ---
 ## Stay In Touch
 
-- [Twitter](https://twitter.com/)
+- [Twitter]([https://twitter.com/](https://www.instagram.com/samotechrobotics/))
 - [Instagram](https://www.instagram.com/)
 
 ### Contact
