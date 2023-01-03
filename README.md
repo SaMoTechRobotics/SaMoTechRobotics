@@ -1,6 +1,6 @@
 # SaMoTech Robotics
 
-// ![SaMoTech Team](https://samotechrobotics.com/images/team.jpg)
+<!-- ![SaMoTech Team](https://samotechrobotics.com/images/team.jpg) -->
 
 SaMoTech is a community-based robotics team that brings together talented and dedicated students from Santa Monica and the surrounding area. We are proud to have a diverse and passionate team with a range of backgrounds and interests. Check out our [website](https://samotechrobotics.weebly.com/) to learn more about us!
 
@@ -8,7 +8,7 @@ SaMoTech is a community-based robotics team that brings together talented and de
 
 Our robot is the result of months of hard work and collaboration by our team. We began the design process by brainstorming ideas and sketching out different concepts. We then built each individual part of the robot and carefully assembled them to create the final product. This allowed us to test and refine the design, making any necessary adjustments to ensure that our robot was functional and met the requirements of the competition.
 
-// ![SaMoTech Robot](https://samotechrobotics.com/images/robot.jpg)
+<!-- ![SaMoTech Robot](https://samotechrobotics.com/images/robot.jpg) -->
 
 ## Our Code
 
@@ -20,7 +20,7 @@ We would like to thank our sponsors goBilda, Panasonic Foundation, ZipRecruiter,
 
 ## Participation in FIRST
 
-We are proud to participate in FIRST (For Inspiration and Recognition of Science and Technology), a global organization that hosts robotics competitions for over 600,000 students across more than 100 countries. These competitions challenge teams to design, build, and program robots that can compete in head-to-head matches, with both autonomous and driver-operated options. The competitions culminate in regional and world championships.
+We are proud to participate in FIRST (For Inspiration and Recognition of Science and Technology), a global organization that hosts robotics competitions for over 600,000 students across more than 100 countries. These competitions challenge teams to design, build, and program robots that can compete in head-to-head matches, with both autonomous and driver-operated options. The competitions culminate in regional and world championships. We specifically participate in FTC (FIRST Tech Challenge) in which teams work together to design, build, and program robots that compete in an alliance format against other teams.
 
 ## Contact Us
 
