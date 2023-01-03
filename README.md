@@ -12,7 +12,7 @@ Our robot is the result of months of hard work and collaboration by our team. We
 
 ## Our Code
 
-One of the key features of our robot is its ability to autonomously drive and assist the drivers during competitions. The code is written is Java using advanced algorithms and sensor data to navigate the field and perform tasks at a high consistency and accuracy. We try to keep our code documented and organized with a scalable structure that allows us to continue to elaborate on our advanced programs.
+One of the key features of our robot is its ability to autonomously drive and assist the drivers during competitions. The code is written is Java using advanced algorithms and sensor-collected data to navigate the field and perform tasks at a high consistency and accuracy. We try to keep our code well-documented and organized with a scalable structure that allows us to continue to elaborate on our advanced programs as the season and our robot progress.
 
 ## Sponsors
 
