@@ -1,6 +1,6 @@
 # SaMoTech Robotics
 
-<!-- ![SaMoTech Team](https://samotechrobotics.com/images/team.jpg) -->
+[SaMoTech Team](https://github.com/SaMoTechRobotics/SaMoTechRobotics/team.jpg)
 
 SaMoTech is a community-based robotics team that brings together talented and dedicated students from Santa Monica and the surrounding area. We are proud to have a diverse and passionate team with a range of backgrounds and interests. Check out our [website](https://samotechrobotics.weebly.com/) to learn more about us!
 
