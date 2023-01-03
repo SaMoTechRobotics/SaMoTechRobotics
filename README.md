@@ -1,6 +1,6 @@
 # SaMoTech Robotics
 
-<img src="https://raw.githubusercontent.com/SaMoTechRobotics/SaMoTechRobotics/main/team.jpg"/>
+<!-- <img src="https://raw.githubusercontent.com/SaMoTechRobotics/SaMoTechRobotics/main/team.jpg"/> -->
 
 SaMoTech is a community-based robotics team that brings together talented and dedicated students from Santa Monica and the surrounding area. We are proud to have a diverse and passionate team with a range of backgrounds and interests. Check out our [website](https://samotechrobotics.weebly.com/) to learn more about us!
 
@@ -25,3 +25,5 @@ We are proud to participate in FIRST (For Inspiration and Recognition of Science
 ## Contact Us
 
 If you would like to learn more about SaMoTech or get involved with our team, please don't hesitate to contact us via email at [samotechrobotics@gmail.com](mailto:samotechrobotics@gmail.com) or follow us on Instagram at [@samotechrobotics](https://www.instagram.com/samotechrobotics/). We would love to hear from you!
+
+<img src="https://raw.githubusercontent.com/SaMoTechRobotics/SaMoTechRobotics/main/team.jpg"/>
