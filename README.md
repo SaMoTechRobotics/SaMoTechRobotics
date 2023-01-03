@@ -1,48 +1,27 @@
-<!-- ## Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamoTechRobotics&theme=tokyonight&show_icons=true&layout=compact)
+# SaMoTech Robotics
 
- -->
+// ![SaMoTech Team](https://samotechrobotics.com/images/team.jpg)
 
+SaMoTech is a community-based robotics team that brings together talented and dedicated students from Santa Monica and the surrounding area. We are proud to have a diverse and passionate team with a range of backgrounds and interests. Check out our [website](https://samotechrobotics.weebly.com/) to learn more about us!
 
-<p align="center">
-  <a href="https://github.com/SaMoTechRobotics" target="_blank" rel="noopener noreferrer">
-    <img width="100" src="https://avatars.githubusercontent.com/u/114426590?v=4" alt="Vue logo">
-  </a>
-</p>
-<p align="center">
-  Team #21936
-</p>
+## Our Robot
 
-## About
+Our robot is the result of months of hard work and collaboration by our team. We began the design process by brainstorming ideas and sketching out different concepts. We then built each individual part of the robot and carefully assembled them to create the final product. This allowed us to test and refine the design, making any necessary adjustments to ensure that our robot was functional and met the requirements of the competition.
 
-SaMoTech is a community based FTC robotics team located in Santa Monica, California. We are a diverse team of Santa Monica High School students, all deticated and hard working.
+// ![SaMoTech Robot](https://samotechrobotics.com/images/robot.jpg)
 
-## The Competition
+## Our Code
 
-Our team participates in the FIRST competion, FTC. FIRST Tech Challenge is a global robotics competition that students of all ages can take part in. Thank you to FIRST for giving us such an opportunity.
+One of the key features of our robot is its ability to autonomously drive and assist the drivers during competitions. The code is written is Java using advanced algorithms and sensor data to navigate the field and perform tasks at a high consistency and accuracy. We try to keep our code documented and organized with a scalable structure that allows us to continue to elaborate on our advanced programs.
 
 ## Sponsors
 
-As a community based team representing Santa Monica, we need our sponsors support. Thank you to these sponsors that made our team possible. To sponser us, go to our [GoFundMe](https://www.gofundme.com/f/community-freshmen-robotics-team?utm_campaign=p_cf+share-flow-1&utm_medium=copy_link&utm_source=customer).
+We would like to thank our sponsors goBilda, Panasonic Foundation, ZipRecruiter, and Rowe Neurology Institute for their support and generosity. Your contributions have made a significant impact on our team and have allowed us to pursue our interests in robotics and engineering. We appreciate your belief in us and the opportunities you have provided. Thank you for your ongoing support.
 
-  <p align="center">
-    <a target="_blank" href="https://www.firstinspires.org/">
-    <img alt="special sponsor appwrite" src="https://www.firstinspires.org/sites/all/themes/first/assets/images/2020/first-horz-rgb.png" width="300">
-    </a>
-  </p>
+## Participation in FIRST
 
-  <p align="center">
-    <a target="_blank" href="https://www.gobilda.com/">
-    <img alt="special sponsor appwrite" src="https://cdn11.bigcommerce.com/s-eem7ijc77k/stencil/af49f910-ade4-013a-b026-32a478cd4269/e/940880a0-6c0d-0136-7313-41f31bb2e297/img/goBILDA.svg" width="300">
-  </p>
+We are proud to participate in FIRST (For Inspiration and Recognition of Science and Technology), a global organization that hosts robotics competitions for over 600,000 students across more than 100 countries. These competitions challenge teams to design, build, and program robots that can compete in head-to-head matches, with both autonomous and driver-operated options. The competitions culminate in regional and world championships.
 
----
-## Stay In Touch
+## Contact Us
 
-- [Twitter]([https://twitter.com/](https://www.instagram.com/samotechrobotics/))
-- [Instagram](https://www.instagram.com/)
-
-### Contact
-<p align="center">
-Contact us at SaMoTechRobotics@gmail.com
-</p>
+If you would like to learn more about SaMoTech or get involved with our team, please don't hesitate to contact us via email at [samotechrobotics@gmail.com](mailto:samotechrobotics@gmail.com) or follow us on Instagram at [@samotechrobotics](https://www.instagram.com/samotechrobotics/). We would love to hear from you!
